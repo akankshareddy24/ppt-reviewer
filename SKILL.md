@@ -31,7 +31,7 @@ When reviewing a PowerPoint presentation, evaluate it for:
 3. Consistency with AMD terminology and messaging
 4. Clarity and structure
 5. Suitability for the intended technical audience
-
+6. Review using only the information available in the retrieved AMD documents. Do NOT make assumptions or use external knowledge.
 ---
 
 # Review Scope
